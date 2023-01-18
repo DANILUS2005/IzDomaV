@@ -1,0 +1,26 @@
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\bin\Debug\Задание 4.exe.config
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\bin\Debug\Задание 4.exe
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\bin\Debug\Задание 4.pdb
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 4.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\MainWindow.g.cs
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\App.g.cs
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 4_MarkupCompile.cache
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 4_MarkupCompile.lref
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\MainWindow.baml
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 4.g.resources
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание_4.Properties.Resources.resources
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 4.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 4.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 4.exe
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 4.pdb
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 2.g.cs
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 2.baml
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 3.g.cs
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 3.baml
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 444.g.cs
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 444.baml
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 5.g.cs
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 5.baml
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 6.g.cs
+C:\Users\Виктория\Desktop\Уч практика\Задание 4\Задание 4\obj\Debug\Задание 6.baml

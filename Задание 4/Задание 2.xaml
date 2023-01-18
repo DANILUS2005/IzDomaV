@@ -1,0 +1,18 @@
+﻿<Window x:Class="Задание_4.Задание_2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Задание_4"
+        mc:Ignorable="d"
+        Title="Задание_2" Height="394" Width="397">
+    <Grid Margin="0,0,10,-6">
+        <TextBox x:Name="factorial" HorizontalAlignment="Left" Margin="54,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" Height="24"/>
+        <Label x:Name="Введите_число_клиентов_N" Content="Введите число клиентов N" HorizontalAlignment="Left" Margin="54,36,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="countFactorial" Content="Вычислите факториал (кол-во маршрутов)" HorizontalAlignment="Left" Margin="54,111,0,0" VerticalAlignment="Top" Height="32" Width="249" Click="countFactorial_Click"/>
+        <Label Content="Ответ" HorizontalAlignment="Left" Margin="54,170,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.686,-0.423"/>
+        <Label x:Name="answerFactorial" Content="" HorizontalAlignment="Left" Margin="58,196,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="perehod2" Content="Задание 3" HorizontalAlignment="Left" Margin="265,327,0,0" VerticalAlignment="Top" Height="19" Width="89" Click="perehod2_Click"/>
+
+    </Grid>
+</Window>
